@@ -20,7 +20,7 @@ struct Mahasiswa {
 int main() {
 
 	Mahasiswa mhs; 
-
+	
 	cout << "Masukkan nim: ";
 	cin >> mhs.nim;
 	cout << "Masukkan nama: ";
