@@ -12,7 +12,7 @@ struct AlamatDetail
 struct Mahasiswa {
 	string nim;
 	string nama;
-	AlamatDetail alamat;
+	AlamatDetail alamat; 
 	int umur;
 
 };
